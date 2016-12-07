@@ -1,0 +1,13 @@
+.content {
+    position: absolute;
+    width: 500px;
+    height: 200px;
+    left: 50%;
+    top: 50%;
+    margin-left: -250px;
+    margin-top: -100px;
+    z-index: 99;
+}
+.form-group{
+    border: 1px lemonchiffon;
+}
